@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I have push my learngit to github.
 Second change and push to github.
+set color
